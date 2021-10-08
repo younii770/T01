@@ -27,7 +27,7 @@ int main()
 	}
 	else if (35 < c)
 	{
-		cout << " Extremly obese";
+		cout << " Extremly Obese";
 	}
 
 	return 0;
